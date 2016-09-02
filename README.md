@@ -1,1 +1,2 @@
 # Accelerometer-Integration-Simulator
+Control with the arrow keys your acceleration(up down) and direction(left right). This is then integrated into velocity and relative x and y pos on a cartessian plane. This was done as a test to FRC code that would integrate our reading from an accelerometer to determine our position on the field in the 2016 season, but was not expanded however due to a more optimal soluton being found through gyro rates.
